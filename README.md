@@ -15,3 +15,9 @@ A lógica é propositalmente simples, pois o foco principal é **como organizar 
 - Manter o código o mais simples possível para focar na arquitetura
 
 ---
+<table>
+  <tr>
+    <td><img src="initial-screen.jpeg" width="250"/></td>
+    <td><img src="initial-screen-2.jpeg" width="250"/></td>
+  </tr>
+</table>
